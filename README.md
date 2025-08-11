@@ -38,4 +38,4 @@ Compiler: GCC / Code::Visual Studio Code
 
 # Output :
 
-<img width="1481" height="761" alt="Image" src="https://github.com/user-attachments/assets/92713fbd-6cc2-4fae-b408-6595da3f19de" />
+<img width="1481" height="761" alt="Image" src="https://github.com/user-attachments/assets/a5100007-3733-447f-bd3b-fae1d6b34eac" />
